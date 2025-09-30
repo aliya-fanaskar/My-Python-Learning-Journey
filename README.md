@@ -22,50 +22,35 @@ It’s a work-in-progress repo that I’ll keep updating as I learn and explore 
 
 The notebooks are organized in sequence to reflect my learning path:
 
-1. [**Python Programming Basics**]() \
-   Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
+1. [**Python Programming Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/01%20-%20Python%20Programming%20Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
    
-2. [**All about Strings**]() \
-   Intro, Multi-line Strings, Escape chars, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
+2. [**All about Strings**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/02%20-%20All%20about%20Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
    
-3. [**Sequences - List**]() \
-   Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
+3. **Sequences**
+   - [**List**]() - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
+   - [**Tuple**]() - Creating Tuples, Tuple Methods, Immutability, Unpacking Tuples, Tuple Operations, etc
+   - [**Set**]() - Creating set, Accessing Set Items, Set Methods - Add items, Remove items, Join Sets, Frozenset, etc.
+   - [**Dictionary**]() - Creating Dictionary, Key-Value Pair, Mutability-Immutability, Dictionary Methods, Nested Dictionaries, etc.
+       
+4. [**Branching**]() - Meaning and Key concepts, If, If-Else, If-Elif-Else, pass statement, Python Match, etc.
    
-4. [**Sequences - Tuple**]() \
-   Creating Tuples, Tuple Methods, Immutability, Unpacking Tuples, Tuple Operations, etc
-   
-5. [**Sequences - Set**]() \
-    Creating set, Accessing Set Items, Set Methods - Add items, Remove items, Join Sets, Frozenset, etc.
-   
-6. [**Sequences - Dictionary**]() \
-    Creating Dictionary, Key-Value Pair, Mutability-Immutability, Dictionary Methods, Nested Dictionaries, etc.
-   
-7. [**Branching**]() \
-    Meaning and Key concepts, If, If-Else, If-Elif-Else, pass statement, Python Match, etc.
-   
-8. [**Iteration - While Loop**]() \
-    While Loop, syntax, break , continue, else, pass, etc.
-   
-9. [**Iteration - For Loop**]()
-    For Loop, syntax, break, continue, pass, range() function, nested For loops, enumerate(), etc.
-   
-10. [**Iteration on Sequences**]() \
-    For loop and While loop on Lists, Tuples, Dictionaries, etc.
+5. **Iteration**
+   - [**While Loop**]() - While Loop, syntax, break , continue, else, pass, etc.
+   - [**For Loop**]() - For Loop, syntax, break, continue, pass, range() function, nested For loops, enumerate(), etc.
+   - [**on Sequences**]() - For loop and While loop on Lists, Tuples, Dictionaries, etc.
+ 
+6. [**Functions**]() - Key Concepts, return, pass, scope, Parameters, Arguments, Recursion, etc.
     
-11. [**Functions**]() \
-    Key Concepts, return, pass, scope, Parameters, Arguments, Recursion, etc.
+7. [**Python Programming Fundamental Concepts**]() - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
     
-12. [**Python Programming Fundamental Concepts**]() \
-    Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
+13. **NumPy**
+    - [**Python Array Math**]()
+    - [**NumPy Introduction and Basics**]()
+    - .......***Work-In-Progress***
     
-13. [**NumPy**]()
-- Python Array Math
-- NumPy Introduction and Basics
-- .......***Work-In-Progress***
-    
-14. [**pandas**]()
-- Introduction and Basics
-- .......***Work-In-Progress*** 
+14. **pandas**
+    - [**Introduction and Basics**]()
+    - .......***Work-In-Progress*** 
     
 15. **(More coming soon...)** 
 
