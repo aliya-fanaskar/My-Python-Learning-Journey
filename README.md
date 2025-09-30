@@ -58,14 +58,16 @@ The notebooks are organized in sequence to reflect my learning path:
 12. [**Python Programming Fundamental Concepts**]() \
     Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
     
-13. [**NumPy**]() \
-    Python Array Math, NumPy Introduction and Basics, .......***Work-In-Progress***.
+13. [**NumPy**]()
+- Python Array Math
+- NumPy Introduction and Basics
+- .......***Work-In-Progress***
     
-14. [**pandas**]() \
-    pandas Introduction and Basics, .......***Work-In-Progress***.
+14. [**pandas**]()
+- Introduction and Basics
+- .......***Work-In-Progress*** 
     
-    
-12. **(More coming soon...)** 
+15. **(More coming soon...)** 
 
 ---
 
@@ -87,4 +89,3 @@ This is mainly my personal learning log, but suggestions and improvements are al
    
 I’ll update this section with specific links and credits in the near future.\
 For now, I'll just thank ChatGPT for helping me generate this amazing README haha.
-
