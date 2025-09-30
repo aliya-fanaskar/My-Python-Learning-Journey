@@ -27,29 +27,29 @@ The notebooks are organized in sequence to reflect my learning path:
 2. [**All about Strings**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/02%20-%20All%20about%20Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
    
 3. **Sequences**
-   - [**List**]() - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
-   - [**Tuple**]() - Creating Tuples, Tuple Methods, Immutability, Unpacking Tuples, Tuple Operations, etc
-   - [**Set**]() - Creating set, Accessing Set Items, Set Methods - Add items, Remove items, Join Sets, Frozenset, etc.
-   - [**Dictionary**]() - Creating Dictionary, Key-Value Pair, Mutability-Immutability, Dictionary Methods, Nested Dictionaries, etc.
+   - [**List**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/03.1%20-%20Sequences%20-%20List.ipynb) - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
+   - [**Tuple**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/03.2%20-%20Sequences%20-%20Tuple.ipynb) - Creating Tuples, Tuple Methods, Immutability, Unpacking Tuples, Tuple Operations, etc
+   - [**Set**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/03.3%20-%20Sequences%20-%20Set.ipynb) - Creating set, Accessing Set Items, Set Methods - Add items, Remove items, Join Sets, Frozenset, etc.
+   - [**Dictionary**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/03.4%20-%20Sequences%20-%20Dictionary.ipynb) - Creating Dictionary, Key-Value Pair, Mutability-Immutability, Dictionary Methods, Nested Dictionaries, etc.
        
-4. [**Branching**]() - Meaning and Key concepts, If, If-Else, If-Elif-Else, pass statement, Python Match, etc.
+4. [**Branching**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/04%20-%20Branching.ipynb) - Meaning and Key concepts, If, If-Else, If-Elif-Else, pass statement, Python Match, etc.
    
 5. **Iteration**
-   - [**While Loop**]() - While Loop, syntax, break , continue, else, pass, etc.
-   - [**For Loop**]() - For Loop, syntax, break, continue, pass, range() function, nested For loops, enumerate(), etc.
-   - [**on Sequences**]() - For loop and While loop on Lists, Tuples, Dictionaries, etc.
+   - [**While Loop**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/05.1%20-%20Iteration%20-%20While%20Loop.ipynb) - While Loop, syntax, break , continue, else, pass, etc.
+   - [**For Loop**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/05.2%20-%20Iteration%20-%20For%20Loop.ipynb) - For Loop, syntax, break, continue, pass, range() function, nested For loops, enumerate(), etc.
+   - [**on Sequences**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/05.3%20-%20Iteration%20-%20List%2C%20Tuple%2C%20Dict.ipynb) - For loop and While loop on Lists, Tuples, Dictionaries, etc.
  
-6. [**Functions**]() - Key Concepts, return, pass, scope, Parameters, Arguments, Recursion, etc.
+6. [**Functions**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/06%20-%20Functions.ipynb) - Key Concepts, return, pass, scope, Parameters, Arguments, Recursion, etc.
     
-7. [**Python Programming Fundamental Concepts**]() - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
+7. [**Python Programming Fundamental Concepts**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/07%20-%20Python%20Programming%20Concepts.ipynb) - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
     
 13. **NumPy**
-    - [**Python Array Math**]()
-    - [**NumPy Introduction and Basics**]()
+    - [**Python Array Math**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.1%20-%20NumPy%20-%20Python%20Array%20Maths.ipynb)
+    - [**NumPy Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.2%20-%20NumPy%20-%20Intro%20and%20Basics.ipynb)
     - .......***Work-In-Progress***
     
 14. **pandas**
-    - [**Introduction and Basics**]()
+    - [**Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/09%20-%20pandas/09.1%20-%20pandas%20-%20Intro%20and%20Basics.ipynb)
     - .......***Work-In-Progress*** 
     
 15. **(More coming soon...)** 
