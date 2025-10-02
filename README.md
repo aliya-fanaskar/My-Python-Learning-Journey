@@ -2,17 +2,16 @@
 
 I’ve been learning and actively practicing Python programming for Data Analysis and decided to organize my work in one place.  This repository contains my Jupyter notebooks — starting from the basics and gradually moving through sequences, branching, iterations, functions, NumPy, Pandas, and beyond.
 
-
-#### Tools & Environment
-
-- **Language**: Python 3.x  
-- **Environment**: Jupyter Notebook
-
 #### Purpose
 
 - Document my **hands-on practice** with Python.
 - Continuously learn and build a strong foundation in Python for Data Analysis
 - Build a **reference repo** that I (and others) can revisit anytime.
+
+#### Tools & Environment
+
+- **Language**: Python 3.x  
+- **Environment**: Jupyter Notebook
 
 It’s a work-in-progress repo that I’ll keep updating as I learn and explore more concepts and techniques. 
    
@@ -44,8 +43,8 @@ The notebooks are organized in sequence to reflect my learning path:
 7. [**Python Programming Fundamental Concepts**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/07%20-%20Python%20Programming%20Concepts.ipynb) - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
     
 13. **NumPy**
-    - [**Python Array Math**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.1%20-%20NumPy%20-%20Python%20Array%20Maths.ipynb)
-    - [**NumPy Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.2%20-%20NumPy%20-%20Intro%20and%20Basics.ipynb)
+    - [**Python Array Math**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.1%20-%20NumPy%20-%20Python%20Array%20Maths.ipynb) - Matrix, Scalars, Vectors, Tensors, Array, Creating matrices, Adding and Subtracting matrices, scalars, Transpose, Matrices Multiplication, Dot Product, etc.
+    - [**NumPy Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.2%20-%20NumPy%20-%20Intro%20and%20Basics.ipynb) - Intoduction, Data Types, Installation, updating and importing library, NumPy Arrays, Creating Arrays, useful Attributes, Array Dimensions, Array Operations, Indexing & Slicing, NumPy Functions, Mathematical Functions, Reshaping, Broadcasting, Stacking & Splitting, Copy vs View, etc.
     - .......***Work-In-Progress***
     
 14. **pandas**
