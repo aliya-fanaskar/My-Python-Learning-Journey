@@ -42,16 +42,16 @@ The notebooks are organized in sequence to reflect my learning path:
     
 7. [**Python Programming Fundamental Concepts**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/07%20-%20Python%20Programming%20Concepts.ipynb) - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
     
-13. **NumPy**
-    - [**Python Array Math**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.1%20-%20NumPy%20-%20Python%20Array%20Maths.ipynb) - Matrix, Scalars, Vectors, Tensors, Array, Creating matrices, Adding and Subtracting matrices, scalars, Transpose, Matrices Multiplication, Dot Product, etc.
-    - [**NumPy Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08%20-%20NumPy/08.2%20-%20NumPy%20-%20Intro%20and%20Basics.ipynb) - Intoduction, Data Types, Installation, updating and importing library, NumPy Arrays, Creating Arrays, useful Attributes, Array Dimensions, Array Operations, Indexing & Slicing, NumPy Functions, Mathematical Functions, Reshaping, Broadcasting, Stacking & Splitting, Copy vs View, etc.
+8. **NumPy**
+    - [**Python Array Math**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08.1%20-%20NumPy%20-%20Python%20Array%20Maths.ipynb) - Matrix, Scalars, Vectors, Tensors, Array, Creating matrices, Adding and Subtracting matrices, scalars, Transpose, Matrices Multiplication, Dot Product, etc.
+    - [**NumPy Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/08.2%20-%20NumPy%20-%20Intro%20and%20Basics.ipynb) - Intoduction, Data Types, Installation, updating and importing library, NumPy Arrays, Creating Arrays, useful Attributes, Array Dimensions, Array Operations, Indexing & Slicing, NumPy Functions, Mathematical Functions, Reshaping, Broadcasting, Stacking & Splitting, Copy vs View, etc.
     - .......***Work-In-Progress***
     
-14. **pandas**
-    - [**Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/09%20-%20pandas/09.1%20-%20pandas%20-%20Intro%20and%20Basics.ipynb)
-    - .......***Work-In-Progress*** 
+9. **pandas**
+    - [**pandas Introduction and Basics**](https://github.com/aliya-fanaskar/my-Python-learning-journey/blob/main/Python%20for%20Data%20Analysis/09.1%20-%20pandas%20-%20Introduction%20and%20Basics.ipynb) - Introduction, Installation, Updating, Importing library, pandas Series, Creating pandas Series, Index in pandas, Position-based vs Label-based Index, Methods, Parameter vs Argument, pandas DataFrame, Creating DataFrame, the pandas Documentation
+    - .......***Work-In-Progress***
     
-15. **(More coming soon...)** 
+10. **(More coming soon...)** 
 
 ---
 
